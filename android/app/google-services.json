@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124139737636",
+    "project_id": "smile-care-connect",
+    "storage_bucket": "smile-care-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124139737636:android:3898fd140783a471a4beb1",
+        "android_client_info": {
+          "package_name": "com.example.smile_care_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVoe3aPnqSfCQXEacEap2czNqPQ_yKEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
